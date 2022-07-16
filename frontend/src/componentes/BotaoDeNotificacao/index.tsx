@@ -1,5 +1,5 @@
-import icon from '../../assets/imagens/Vector.svg'
-import './Style.css'
+import icon from '../../assets/imagens/Vector.svg';
+import './Style.css';
 
 function BotaoDeNotificacao() {
     return(
@@ -10,4 +10,4 @@ function BotaoDeNotificacao() {
     )
   }
 
-  export default BotaoDeNotificacao
+  export default BotaoDeNotificacao;
